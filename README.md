@@ -19,41 +19,36 @@ This project is ideal for:
 ---
 
 ## 📁 Repository Structure
-
 become-elite-ai-researcher/
 │
 ├── 1_math/
-│ ├── derivatives.ipynb
-│ ├── vectors.ipynb
-│ ├── matrices.ipynb
-│ └── probability.ipynb
+│   ├── derivatives.ipynb
+│   ├── vectors.ipynb
+│   ├── matrices.ipynb
+│   └── probability.ipynb
 │
 ├── 2_pytorch/
-│ ├── tensors.ipynb
-│ ├── tensor_operations.ipynb
-│ ├── matrix_multiplication.ipynb
-│ └── broadcasting.ipynb
+│   ├── tensors.ipynb
+│   ├── tensor_operations.ipynb
+│   ├── matrix_multiplication.ipynb
+│   └── broadcasting.ipynb
 │
 ├── 3_neural_networks/
-│ ├── single_neuron.ipynb
-│ ├── multilayer_network.ipynb
-│ ├── activation_functions.ipynb
-│ ├── backpropagation.ipynb
-│ ├── optimizers.ipynb
-│ └── normalization.ipynb
+│   ├── single_neuron.ipynb
+│   ├── multilayer_network.ipynb
+│   ├── activation_functions.ipynb
+│   ├── backpropagation.ipynb
+│   ├── optimizers.ipynb
+│   └── normalization.ipynb
 │
 ├── 4_transformers/
-│ ├── attention.ipynb
-│ ├── multihead_attention.ipynb
-│ └── transformer_block.ipynb
+│   ├── attention.ipynb
+│   ├── multihead_attention.ipynb
+│   └── transformer_block.ipynb
 │
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-
-
-
----
 
 ## 🎯 Learning Objectives
 
