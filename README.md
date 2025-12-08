@@ -19,6 +19,9 @@ This project is ideal for:
 ---
 
 ## 📁 Repository Structure
+## 📁 Repository Structure
+
+```
 become-elite-ai-researcher/
 │
 ├── 1_math/
@@ -49,6 +52,8 @@ become-elite-ai-researcher/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
+
 
 ## 🎯 Learning Objectives
 
